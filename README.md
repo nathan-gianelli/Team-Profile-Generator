@@ -9,6 +9,9 @@
 ## Installation
 <code>npm i</code>
 
+# Demo photo
+<img width="1423" alt="Screen Shot 2020-03-02 at 9 54 50 AM" src="https://user-images.githubusercontent.com/59578229/75687524-edda8a80-5c6b-11ea-8b73-2de1bbaf21b3.png">
+
 ## Usage
 <code>node app.js</code>
 
